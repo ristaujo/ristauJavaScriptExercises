@@ -8,4 +8,4 @@ total = total + " " + word;
 userInput = prompt("Would you like to play again?");
 }
 while (userInput != 'no');
-alert("Output: " + total)
+alert("Output: " + total);
